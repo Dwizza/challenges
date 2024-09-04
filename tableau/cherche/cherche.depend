@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725444991 source:c:\users\youcode\documents\day2\tableau\cherche\main.c
+	<stdio.h>
+	<stdlib.h>
+
